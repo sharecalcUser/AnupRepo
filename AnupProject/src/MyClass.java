@@ -7,7 +7,5 @@ public class MyClass {
 	
 	int b;
 	
-	/// comments
-	
 	
 }
