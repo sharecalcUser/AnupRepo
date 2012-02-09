@@ -7,5 +7,7 @@ public class MyClass {
 	
 	int b;
 	
+	int abc;
+	
 	
 }
