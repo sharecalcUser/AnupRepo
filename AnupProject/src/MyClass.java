@@ -5,7 +5,7 @@ public class MyClass {
 	String pass;
 	
 	
-	int i ;
+	int b;
 	
 	
 }
